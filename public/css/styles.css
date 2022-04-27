@@ -11,10 +11,8 @@ body {
       
 }
 
-#dogphoto {
-    display: flex;
-    flex-flow: row;
-}
+
+
 
 p {
     color: red;
