@@ -1,9 +1,13 @@
 body {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    background: lightgray;
-    font-family: sans-serif;
+    
+        display: flex;
+        flex-wrap: nowrap;
+        height: 100vh;
+        height: -webkit-fill-available;
+        max-height: 100vh;
+        overflow-x: auto;
+        overflow-y: hidden;
+      
 }
 
 p {
